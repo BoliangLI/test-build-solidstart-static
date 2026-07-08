@@ -1,0 +1,1 @@
+{"name":"test-solidstart-static","private":true,"type":"module","scripts":{"build":"vinxi build"},"dependencies":{"@solidjs/start":"latest","@solidjs/router":"latest","solid-js":"^1.8","vinxi":"latest"}}
